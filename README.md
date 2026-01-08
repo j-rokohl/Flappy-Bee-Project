@@ -18,6 +18,20 @@ For Flappy Bee to jump, press space. If you want to go lower, let gravity do it'
 
 This whole game was coded usin Java and a code editor called Visual Studio Code, while Canva was for the graphics. 
 
+## How to Install and Play on Your Desktop
+
+[![Screenshot of Powershell](https://stalwart-melomakarona-a134a1.netlify.app/Screenshot%202026-01-08%20071148.png)](https://stalwart-melomakarona-a134a1.netlify.app/Screenshot%202026-01-08%20071148.png)
+
+1. Download and Install Java here: [https://www.oracle.com/java/technologies/downloads/#jdk25-windows](https://www.oracle.com/java/technologies/downloads/#jdk25-windows)
+2. Download this repo here: [https://github.com/j-rokohl/Flappy-Bee-Project/archive/refs/heads/main.zip](https://github.com/j-rokohl/Flappy-Bee-Project/archive/refs/heads/main.zip)
+3. Unzip the repo by right-clicking and selecting Unzip.
+4. Copy the path of the unzipped folder. It should look something like this: "C:\Users\MyName\Downloads\Flappy-Bee-Project-main"
+5. Open PowerShell. 
+6. Type "cd " and then paste the folder path in quotes. Press Enter.
+7. Once in the code folder, type "javac App.java"
+8. If no error, type "java App" in PowerShell
+9. The Flappy Bee game will appear.
+
 ## Sources
 
 - [Kenny Yip Coding Website: https://www.kennyyipcoding.com/](https://www.kennyyipcoding.com/)
